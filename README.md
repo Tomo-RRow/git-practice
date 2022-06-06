@@ -1,3 +1,3 @@
 # git-practice
 ローカルリポで変更
-conflictで変更
+github上で変更
