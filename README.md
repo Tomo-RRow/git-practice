@@ -1,4 +1,4 @@
 # git-practice
 ローカルリポで変更
-conflict-remote上で変更
+rebase-practiceブランチで更新（rebase用）
 
